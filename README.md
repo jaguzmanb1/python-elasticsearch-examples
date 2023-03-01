@@ -9,5 +9,6 @@ This repository contains code examples written in Python for interacting with El
 - [Bulk](bulk.py)
 - [Conecting to elasticsearch](connection.py)
 - [Scroll query](scroll.py)
+- [Indexing](indexing.py)
 # Contributing
 Contributions are welcome! If you have an example you'd like to add, please fork this repository and submit a pull request with your changes.
