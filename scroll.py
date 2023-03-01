@@ -15,7 +15,7 @@ scroll_time = "2m"
 
 # First scroll page
 data = es_client.search(
-    index="indice_ejemplo",
+    index="index_name",
     scroll=scroll_time,
     size=scroll_size
 )
